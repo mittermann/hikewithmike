@@ -1,6 +1,6 @@
 console.log("Hello JS")
 var slideIndex = 1;
-showSlides(slideIndex=5);
+showSlides(slideIndex);
 
 // Next/previous controls
 function plusSlides(n) {
